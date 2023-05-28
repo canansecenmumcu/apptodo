@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## React Todo App
 
 
-![ScreenShot](project.jpg)
+<img src="./image/project.jpg" width="128"/>
