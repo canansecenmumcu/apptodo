@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## React Todo App
 
 
-<img src="image/project.jpg" alt="alt text" width="320" height="180">
+<img src="project.jpg" alt="alt text" width="320" height="180">
