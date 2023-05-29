@@ -7,11 +7,12 @@ const TodoForm = (props) => {
   const [newTodo, setNewTodo] = useState("");
   const addTodo=()=> {
     props.setTodoList(prevTodoList => [...prevTodoList, {id:uuidv4(), title:newTodo, isCompleted:false, isEditable:false }]);
-    setNewTodo("")
+    setNewTodo("") 
   }
 
   // useEffect(() => { console.log(props.todoList) }, [props.todoList])
 
+  
   return (
     <div className="mt-4 d-flex w-50" >
       <Form.Control
